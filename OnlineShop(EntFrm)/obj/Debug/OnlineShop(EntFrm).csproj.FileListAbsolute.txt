@@ -1,0 +1,13 @@
+C:\Users\УринбасаровД\source\repos\OnlineShop(EntFrm)\OnlineShop(EntFrm)\bin\Debug\OnlineShop(EntFrm).exe.config
+C:\Users\УринбасаровД\source\repos\OnlineShop(EntFrm)\OnlineShop(EntFrm)\bin\Debug\OnlineShop(EntFrm).exe
+C:\Users\УринбасаровД\source\repos\OnlineShop(EntFrm)\OnlineShop(EntFrm)\bin\Debug\OnlineShop(EntFrm).pdb
+C:\Users\УринбасаровД\source\repos\OnlineShop(EntFrm)\OnlineShop(EntFrm)\bin\Debug\EntityFramework.dll
+C:\Users\УринбасаровД\source\repos\OnlineShop(EntFrm)\OnlineShop(EntFrm)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\УринбасаровД\source\repos\OnlineShop(EntFrm)\OnlineShop(EntFrm)\bin\Debug\EntityFramework.xml
+C:\Users\УринбасаровД\source\repos\OnlineShop(EntFrm)\OnlineShop(EntFrm)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\УринбасаровД\source\repos\OnlineShop(EntFrm)\OnlineShop(EntFrm)\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\УринбасаровД\source\repos\OnlineShop(EntFrm)\OnlineShop(EntFrm)\obj\Debug\OnlineShop(EntFrm).csprojAssemblyReference.cache
+C:\Users\УринбасаровД\source\repos\OnlineShop(EntFrm)\OnlineShop(EntFrm)\obj\Debug\OnlineShop(EntFrm).csproj.CoreCompileInputs.cache
+C:\Users\УринбасаровД\source\repos\OnlineShop(EntFrm)\OnlineShop(EntFrm)\obj\Debug\OnlineShop(EntFrm).csproj.CopyComplete
+C:\Users\УринбасаровД\source\repos\OnlineShop(EntFrm)\OnlineShop(EntFrm)\obj\Debug\OnlineShop(EntFrm).exe
+C:\Users\УринбасаровД\source\repos\OnlineShop(EntFrm)\OnlineShop(EntFrm)\obj\Debug\OnlineShop(EntFrm).pdb
